@@ -1,0 +1,26 @@
+
+
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  	 font-family: Georgia;
+	 background-image:url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/selga.png")
+
+}
+
+h1 {
+  color: Grey;
+}
+
+.about-me{
+  font-size: 20px;
+}
+
+p, li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
+
+
